@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="20px" height="23px" viewBox="0 0 20 23" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>lightbulb</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Inbox" transform="translate(-586.000000, -855.000000)" stroke="#303F9F">
+            <g id="Quiz" transform="translate(255.000000, 589.000000)">
+                <g id="Tip" transform="translate(332.000000, 264.000000)">
+                    <g id="lightbulb" transform="translate(0.000000, 3.000000)">
+                        <ellipse id="Oval" cx="9" cy="9.1875" rx="6" ry="6.125"></ellipse>
+                        <polyline id="Shape" stroke-linejoin="round" points="6.42857143 14.875 6.42857143 17.0625 11.5714286 17.0625 11.5714286 14.875"></polyline>
+                        <rect id="Rectangle-path" stroke-linejoin="round" x="7.28571429" y="17.0625" width="3.42857143" height="1.75"></rect>
+                        <path d="M9,18.8125 L9,20.5625" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M9,0.4375 L9,1.3125" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M15.0608571,3.000375 L14.4548571,3.619" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M17.5714286,9 L16.7142857,9" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M15.0608571,15.374625 L14.4548571,14.756" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M2.93914286,3.000375 L3.54514286,3.619" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M0.428571429,9 L1.28571429,9" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M2.93914286,15.374625 L3.54514286,14.756" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                        <path d="M9.42857143,14.875 L10.5214286,10.040625 C10.6345714,9.541875 11.07,9.1875 11.5714286,9.1875 C12.0454286,9.1875 12.4285714,9.578625 12.4285714,10.0625 C12.4285714,10.546375 12.0454286,10.9375 11.5714286,10.9375 L9,10.9375 L6.42857143,10.9375 C5.95457143,10.9375 5.57142857,10.546375 5.57142857,10.0625 C5.57142857,9.578625 5.95457143,9.1875 6.42857143,9.1875 C6.93,9.1875 7.36542857,9.541 7.47857143,10.040625 L8.57142857,14.875" id="Shape" stroke-linecap="round" stroke-linejoin="round"></path>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

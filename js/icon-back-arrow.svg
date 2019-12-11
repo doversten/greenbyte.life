@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="16px" height="12px" viewBox="0 0 16 12" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 45 (43475) - http://www.bohemiancoding.com/sketch -->
+    <title>Back Arrow</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="UI" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Volume-&gt;-Completed" transform="translate(-271.000000, -610.000000)" fill-rule="nonzero" fill="#7F90A0">
+            <g id="Quiz" transform="translate(255.000000, 589.000000)">
+                <path d="M29.7067622,24.6436387 L24.7069705,19.3102246 C24.3459856,18.9154731 23.6970126,18.8781317 23.2920295,19.3102246 L18.2932378,24.6436387 C17.9022541,25.0607951 17.9022541,25.7350735 18.2932378,26.1522299 C18.6842215,26.5693863 19.3161952,26.5693863 19.7071789,26.1522299 L23.0000417,22.6389408 L23.0000417,33.9331038 C23.0000417,34.5230974 23.447023,35 24,35 C24.551977,35 24.9999583,34.5230974 24.9999583,33.9331038 L24.9999583,22.6389408 L28.2928211,26.1522299 C28.6838048,26.5693863 29.3157785,26.5693863 29.7067622,26.1522299 C30.0977459,25.7350735 30.0977459,25.0607951 29.7067622,24.6436387 Z" id="Back-Arrow" transform="translate(24.000000, 27.000000) rotate(-90.000000) translate(-24.000000, -27.000000) "></path>
+            </g>
+        </g>
+    </g>
+</svg>
