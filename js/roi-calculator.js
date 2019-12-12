@@ -104,7 +104,7 @@ $(document).ready(() => {
     const opt = {
       margin: [0, -10, 0, -10],
       enableLinks: true,
-      filename: 'twilio-sendgrid-roi.pdf',
+      filename: 'greenbyte-aep.pdf',
       html2canvas: { scale: 1 },
       jsPDF: { unit: 'mm', format: 'letter', orientation: 'portrait' },
     };
@@ -117,7 +117,7 @@ $(document).ready(() => {
           pdf.setPage(i);
           pdf.setFontSize(10);
           pdf.setTextColor(150);
-          pdf.text('https://SendGrid.com/pricing | https://SendGrid.com/resource/roi', pdf.internal.pageSize.getWidth() - 160, pdf.internal.pageSize.getHeight() - 20);
+          pdf.text('https://greenbyte.com | https://greenbyte.life', pdf.internal.pageSize.getWidth() - 160, pdf.internal.pageSize.getHeight() - 20);
         }
       })
       .save();
